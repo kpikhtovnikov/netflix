@@ -1,4 +1,4 @@
-![demogif](Netflix-Clone.gif)
+ ![demogif](Netflix-Clone.gif)
 
 
 # Netflix Clone
