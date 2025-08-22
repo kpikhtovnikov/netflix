@@ -21,3 +21,5 @@
   - Complex and dynamic route generation 
 - [React Reveal](https://www.react-reveal.com/)
   - For fade animation effect
+
+### Educational pet-project
